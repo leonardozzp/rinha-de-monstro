@@ -1,0 +1,15 @@
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\bin\Debug\net8.0\rinha-de-monstro.exe
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\bin\Debug\net8.0\rinha-de-monstro.deps.json
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\bin\Debug\net8.0\rinha-de-monstro.runtimeconfig.json
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\bin\Debug\net8.0\rinha-de-monstro.dll
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\bin\Debug\net8.0\rinha-de-monstro.pdb
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.AssemblyInfoInputs.cache
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.AssemblyInfo.cs
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.csproj.CoreCompileInputs.cache
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.sourcelink.json
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.dll
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\refint\rinha-de-monstro.dll
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.pdb
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\rinha-de-monstro.genruntimeconfig.cache
+D:\Git\rinha-de-monstro\rinha-de-monstro\rinha-de-monstro\obj\Debug\net8.0\ref\rinha-de-monstro.dll
