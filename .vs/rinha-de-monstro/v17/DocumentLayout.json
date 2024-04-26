@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\rinha-de-monstro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|d:\\git\\rinha-de-monstro\\rinha-de-monstro\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|solutionrelative:rinha-de-monstro\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|d:\\git\\rinha-de-monstro\\rinha-de-monstro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|solutionrelative:rinha-de-monstro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|d:\\git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|solutionrelative:rinha-de-monstro\\rinha-de-monstro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|solutionrelative:rinha-de-monstro\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|d:\\git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{887070C4-A4CC-4BB2-9279-26D212133201}|rinha-de-monstro\\rinha-de-monstro.csproj|solutionrelative:rinha-de-monstro\\rinha-de-monstro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "rinha-de-monstro\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Properties\\Resources.resx",
+              "RelativeToolTip": "rinha-de-monstro\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-26T01:00:29.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rinha-de-monstro",
+              "DocumentMoniker": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
+              "RelativeDocumentMoniker": "rinha-de-monstro\\rinha-de-monstro.csproj",
+              "ToolTip": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
+              "RelativeToolTip": "rinha-de-monstro\\rinha-de-monstro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T01:00:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rinha-de-monstro.csproj",
+              "DocumentMoniker": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
+              "RelativeDocumentMoniker": "rinha-de-monstro\\rinha-de-monstro.csproj",
+              "ToolTip": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
+              "RelativeToolTip": "rinha-de-monstro\\rinha-de-monstro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T00:08:44.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Program.cs",
+              "RelativeDocumentMoniker": "rinha-de-monstro\\Program.cs",
+              "ToolTip": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Program.cs",
+              "RelativeToolTip": "rinha-de-monstro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:08:10.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monstro.cs",
+              "DocumentMoniker": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Monstro.cs",
+              "RelativeDocumentMoniker": "rinha-de-monstro\\Monstro.cs",
+              "ToolTip": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\Monstro.cs",
+              "RelativeToolTip": "rinha-de-monstro\\Monstro.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:16:16.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
