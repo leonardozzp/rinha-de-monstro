@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BRMLC0jwG15ExJ5n1D5GAb1ZPZe6yoM1/1vt1yxZQ5g2RAU5Hsj6cRWYpnYrhDKoGZ15Nfq92FRte/dRKW8aGA==",
+  "dgSpecHash": "RiqHuxfM4ccz5Lv3uWlqZW+qLOnmZ3Lh6xNvyZ+cZX67NNTBPb7jcLWCLhMVhRU604eJQyFOmY7ONB0+pSu0zQ==",
   "success": true,
-  "projectFilePath": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Git\\rinha-de-monstro\\rinha-de-monstro\\rinha-de-monstro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
