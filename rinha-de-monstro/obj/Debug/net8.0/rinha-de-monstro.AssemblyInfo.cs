@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rinha-de-monstro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+017a690897e11e61e86c925af3982348f165fb29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06c48468d20aa30c9c99230597131aa611d0770c")]
 [assembly: System.Reflection.AssemblyProductAttribute("rinha-de-monstro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rinha-de-monstro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
